@@ -1,1 +1,3 @@
 	Não importa quais sejam seus objetivos de 	codificação, o melhor lugar para começar é 	construir uma base sólida é estudando
+ranching and Merging
+Branching and merging are the great features of Git, which makes it different from the other SCM tools. Git allows the creation of multiple branches without affecting each other. We can perform tasks like creation, deletion, and merging on branches, and these tasks take a few seconds only. Below are some 
